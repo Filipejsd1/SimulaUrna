@@ -31,7 +31,7 @@ Este projeto foi construído com o objetivo de praticar os conceitos fundamentai
 | **22** | Flávio Bolsonaro | PL |
 | **14** | Renan Santos | Missão |
 
-*Nota: Qualquer outro número digitado para os cargos será contabilizado como **Voto Nulo**.*
+*Obs: Qualquer outro número digitado para os cargos será contabilizado como **Voto Nulo**.*
 
 ---
 
