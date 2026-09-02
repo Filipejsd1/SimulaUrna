@@ -1,4 +1,4 @@
-# 🗳️ SimulaUrna (Bahia)
+# 🗳️ SimulaUrna
 
 O **SimulaUrna** é um sistema em java puro para simular o funcionamento de uma urna eletrônica no terminal. O projeto foca no processamento de votações para dois cargos executivos: **Governador** e **Presidente**.
 
