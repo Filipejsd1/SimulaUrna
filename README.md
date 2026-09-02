@@ -22,14 +22,14 @@ Este projeto foi construído com o objetivo de praticar os conceitos fundamentai
 | :---: | :--- | :--- |
 | **13** | Jerônimo Rodrigues | PT |
 | **44** | ACM Neto | União Brasil |
-| **80** | Aroldo Félix | UPP |
+| **80** | Aroldo Félix | UP |
 
 ### 🔰 Presidente da República
 | Número | Candidato | Partido |
 | :---: | :--- | :--- |
 | **13** | Luiz Inácio Lula da Silva | PT |
 | **22** | Flávio Bolsonaro | PL |
-| **14** | Renan Santos | Missãoo |
+| **14** | Renan Santos | Missão |
 
 *Nota: Qualquer outro número digitado para os cargos será contabilizado como **Voto Nulo**.*
 
